@@ -1,0 +1,4 @@
+# CODEOWNERS — auto-assign reviewers on PRs.
+# See https://docs.github.com/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-code-owners
+
+* @realmindsai/core
